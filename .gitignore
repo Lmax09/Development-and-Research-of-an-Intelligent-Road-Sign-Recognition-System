@@ -1,0 +1,4 @@
+# Ignore image datasets
+images/
+images_real_maps/
+GTSRB/
